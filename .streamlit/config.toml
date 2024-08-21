@@ -1,0 +1,7 @@
+[client]
+showSidebarNavigation = false
+
+[theme]
+base="dark"
+primaryColor="red"
+font="serif"

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>waypoint 0</name>
+            <Point id="2">
+                <coordinates>0.681812,41.082319,249.078255</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>waypoint 1</name>
+            <Point id="4">
+                <coordinates>0.683687,41.081705,252.935104</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>waypoint 2</name>
+            <Point id="6">
+                <coordinates>0.683818,41.081915,250.765717</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>waypoint 3</name>
+            <Point id="8">
+                <coordinates>0.681957,41.08254,245.30020100000002</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>waypoint 4</name>
+            <Point id="10">
+                <coordinates>0.682265,41.082766,242.52005</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>waypoint 5</name>
+            <Point id="12">
+                <coordinates>0.683843,41.08225,247.859825</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>waypoint 6</name>
+            <Point id="14">
+                <coordinates>0.683945,41.082483,246.70977</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>waypoint 7</name>
+            <Point id="16">
+                <coordinates>0.682367,41.082992,241.490158</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>waypoint 8</name>
+            <Point id="18">
+                <coordinates>0.682542,41.083261,241.51923399999998</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>waypoint 9</name>
+            <Point id="20">
+                <coordinates>0.683161,41.083041,243.505493</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Mora la Nova</name>
+            <LineString id="22">
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>0.681812,41.082319,249.078255 0.683687,41.081705,252.935104 0.683818,41.081915,250.765717 0.681957,41.08254,245.30020100000002 0.682265,41.082766,242.52005 0.683843,41.08225,247.859825 0.683945,41.082483,246.70977 0.682367,41.082992,241.490158 0.682542,41.083261,241.51923399999998 0.683161,41.083041,243.505493</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

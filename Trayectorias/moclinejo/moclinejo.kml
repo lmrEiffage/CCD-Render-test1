@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>waypoint 0</name>
+            <Point id="2">
+                <coordinates>-4.269465,36.786561,656.451172</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>waypoint 1</name>
+            <Point id="4">
+                <coordinates>-4.268639,36.785032,637.677002</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>waypoint 2</name>
+            <Point id="6">
+                <coordinates>-4.268435,36.78437,608.675812</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>waypoint 3</name>
+            <Point id="8">
+                <coordinates>-4.268274,36.783837,588.563141</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>waypoint 4</name>
+            <Point id="10">
+                <coordinates>-4.268135,36.783365,574.840149</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>waypoint 5</name>
+            <Point id="12">
+                <coordinates>-4.267931,36.782901,564.949036</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>waypoint 6</name>
+            <Point id="14">
+                <coordinates>-4.26733,36.782703,573.2849120000001</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>waypoint 7</name>
+            <Point id="16">
+                <coordinates>-4.266665,36.78266,584.778534</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>waypoint 8</name>
+            <Point id="18">
+                <coordinates>-4.266236,36.782866,595.128571</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>waypoint 9</name>
+            <Point id="20">
+                <coordinates>-4.266129,36.783253,606.901154</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>waypoint 10</name>
+            <Point id="22">
+                <coordinates>-4.266161,36.783648,619.177734</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>waypoint 11</name>
+            <Point id="24">
+                <coordinates>-4.266579,36.78431,637.714111</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>waypoint 12</name>
+            <Point id="26">
+                <coordinates>-4.266912,36.784679,642.530212</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>waypoint 13</name>
+            <Point id="28">
+                <coordinates>-4.267073,36.785006,648.660095</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>waypoint 14</name>
+            <Point id="30">
+                <coordinates>-4.267073,36.785341,661.238281</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>waypoint 15</name>
+            <Point id="32">
+                <coordinates>-4.26689,36.785599,675.917847</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>waypoint 16</name>
+            <Point id="34">
+                <coordinates>-4.266644,36.785908,693.396545</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>waypoint 17</name>
+            <Point id="36">
+                <coordinates>-4.266279,36.786252,711.177551</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>waypoint 18</name>
+            <Point id="38">
+                <coordinates>-4.26571,36.78669,726.742493</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>waypoint 19</name>
+            <Point id="40">
+                <coordinates>-4.265517,36.78687,730.811768</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>moclinejo</name>
+            <LineString id="42">
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-4.269465,36.786561,656.451172 -4.268639,36.785032,637.677002 -4.268435,36.78437,608.675812 -4.268274,36.783837,588.563141 -4.268135,36.783365,574.840149 -4.267931,36.782901,564.949036 -4.26733,36.782703,573.2849120000001 -4.266665,36.78266,584.778534 -4.266236,36.782866,595.128571 -4.266129,36.783253,606.901154 -4.266161,36.783648,619.177734 -4.266579,36.78431,637.714111 -4.266912,36.784679,642.530212 -4.267073,36.785006,648.660095 -4.267073,36.785341,661.238281 -4.26689,36.785599,675.917847 -4.266644,36.785908,693.396545 -4.266279,36.786252,711.177551 -4.26571,36.78669,726.742493 -4.265517,36.78687,730.811768</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
