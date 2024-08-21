@@ -84,17 +84,27 @@ if st.session_state["loading"] == False:
     container2.empty()
     my_bar.empty()
 
-p1 = st.Page("page/home.py", title="home", icon=":material/home:")
-p6 = st.Page("page/setting.py", icon=":material/settings:")
-p7 = st.Page("page/login.py", icon=":material/login:")
-p8 = st.Page("page/logout.py", icon=":material/logout:")
+#p1 = st.Page("page/home.py", title="home", icon=":material/home:")
+#p6 = st.Page("page/setting.py", icon=":material/settings:")
+#p7 = st.Page("page/login.py", icon=":material/login:")
+#p8 = st.Page("page/logout.py", icon=":material/logout:")
 
-p2 = st.Page("page/create_route.py", icon=":material/public:", title='create')
-p3 = st.Page("page/edit.py", icon=":material/edit:",title='edit')
-p4 = st.Page("page/track_route.py", icon=":material/rocket_launch:", title='track')
-p5 = st.Page("page/route_stats.py", icon=":material/query_stats:", title='stats')
+#p2 = st.Page("page/create_route.py", icon=":material/public:", title='create')
+#p3 = st.Page("page/edit.py", icon=":material/edit:",title='edit')
+#p4 = st.Page("page/track_route.py", icon=":material/rocket_launch:", title='track')
+#p5 = st.Page("page/route_stats.py", icon=":material/query_stats:", title='stats')
 
-pg = st.navigation([p7, p1, p2,p3,p4,p5, p6, p8])
+p1 = st.Page("page/home.py", title="home")
+p6 = st.Page("page/setting.py")
+p7 = st.Page("page/login.py")
+p8 = st.Page("page/logout.py")
+
+p2 = st.Page("page/create_route.py", title='create')
+p3 = st.Page("page/edit.py",title='edit')
+p4 = st.Page("page/track_route.py", title='track')
+p5 = st.Page("page/route_stats.py", title='stats')
+
+pg = st.navigation([p1, p2,p3,p4,p5])
 pg.run()
 
 
