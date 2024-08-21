@@ -6,7 +6,6 @@
 #CUIDADO CON LOS ARCHIVOS QUE SE PARSEAN (XML.etree no tiene ningún tipo de forma de detectar intenciones maliciosas dentre de un kml)
 #Al INICIAR EL PROGRAMA TO DO LO QUE NO SEA UNA CARPETA DEL MISMO SE BORRA DEL DIRECTORIO¡¡¡
 
-import folium.map
 import folium, os, time, shutil, simplekml, io
 import pandas as pd
 import xml.etree.ElementTree as ET
